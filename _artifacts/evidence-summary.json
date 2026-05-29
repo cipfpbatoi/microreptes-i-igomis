@@ -1,0 +1,23 @@
+{
+  "generated_at": "2026-05-29T11:37:13.264Z",
+  "readme": {
+    "path": "README.md",
+    "bytes": 2139,
+    "lines": 54
+  },
+  "ai_log": {
+    "path": "docs/ai-log.md",
+    "bytes": 749,
+    "lines": 12
+  },
+  "evidence_files": [
+    "evidence/README.md",
+    "evidence/verificacio-mp1.md"
+  ],
+  "test_files": [
+    "tests/README.md"
+  ],
+  "source_files": [
+    "src/.gitkeep"
+  ]
+}
