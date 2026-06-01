@@ -4,7 +4,7 @@
 - Alumne: `cipfpbatoi/microreptes-i-igomis`
 - Grup: `2DAW-A`
 - Autocorrecció: `r1-s01-model-client-servidor-stack`
-- Commit avaluat: `d477cc9c2071dce3095f7cfe16b36d3bf714a4cd`
+- Commit avaluat: `e6249ca80725fefd8ac6a128b96f81eadd60ef52`
 - Motor: `mock`
 - Nota provisional: **7.8/10**
 - Confiança: **0.78**
